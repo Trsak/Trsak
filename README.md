@@ -2,8 +2,21 @@
 I'm Petr Šopf
 
 
+## Mostly used tools and programming languages
+* C++
+* C
+* PHP
+* Python
+* Java
+* JavaScript
+* HTML5 & CSS3
+* Lua
+* Visual Studio Code
+* JetBrains IDEs
+
 ## Contact me
-[![Discord](https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/175351238232113152)
+**Email**: thetrsak@gmail.com  
+**Discord**: Trsak#9156
 
 ## My GitHub stats
 ![Trsak's github stats](https://github-readme-stats.vercel.app/api?username=Trsak&show_icons=true&theme=dark)
