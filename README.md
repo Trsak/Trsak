@@ -1,21 +1,8 @@
 # Hello! 👋
 I'm Petr Šopf
 
-
-## Mostly used tools and programming languages
-* C++
-* C
-* PHP
-* Python
-* Java
-* JavaScript
-* HTML5 & CSS3
-* Lua
-* Visual Studio Code
-* JetBrains IDEs
-
 ## Contact me
-**Email**: thetrsak@gmail.com  
+**Email**: petr@sopf.eu  
 **Discord**: Trsak#9156
 
 ## My GitHub stats
